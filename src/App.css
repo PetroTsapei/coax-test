@@ -1,0 +1,52 @@
+
+.App {
+  margin-top: 50px;
+  margin-left: 100px;
+  display: flex;
+  /*align-items: center;*/
+}
+
+.my-table-container-class{
+  text-align: center;
+  width: auto;
+  border: 1px solid #ACB6C1;
+  margin-left: 50px;
+  border-radius: 4px;
+}
+
+.my-header-class{
+  font-size: 12px;
+  padding-top: 8px;
+}
+
+.my-header-container-class {
+  display: block;
+  height: 40px;
+  background-color: #465568;
+  color: #B0B9C4;
+  text-align: center;
+}
+
+.my-body-class{
+  background-color: white;
+  color: lightgray;
+  width: 100%;
+}
+
+.chckbx {
+  color: #8DA6BD;
+  font-size: 13px;
+}
+
+.th-string {
+  cursor: pointer;
+  width: 200px;
+}
+
+.td-column {
+   height: 35px;
+}
+
+.eachcolumn {
+  width: 340px;
+}

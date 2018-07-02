@@ -1,0 +1,43 @@
+[
+    {
+        "id": "1",
+        "name": "Lenovo IdeaPad Z507",
+        "price": 145,
+        "rating": "5"
+    },
+
+    {
+        "id": "2",
+        "name": "Lenovo G50-4",
+        "price": 29,
+        "rating": 3.5
+    },
+
+    {
+        "id": "3",
+        "name": "Apple MacBook Pro 13 Early 2012",
+        "price": 59,
+        "rating": 4.5
+    },
+
+    {
+        "id": "4",
+        "name": "Apple MacBook Pro 15 Early 2012",
+        "price": 129,
+        "rating": 4
+    },
+
+    {
+        "id": "5",
+        "name": "Lenovo G71",
+        "price": 185,
+        "rating": 4.3
+    },
+
+    {
+        "id": "6",
+        "name": "ASUS X200L",
+        "price": 215,
+        "rating": 4
+    }
+]
